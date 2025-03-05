@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the Trainer Repository! This repository contains the necessary files and configurations for managing memory allocation in our embedded system project. This README provides an overview of the memory configuration tasks specifically related to the FLASH and SRAM sections of the linker file.
 
+Github: ```https://github.com/Aruvi-B/Trainer_repo.git```
+
 ## Task Description
 
 ### Memory Part: Flash and SRAM
